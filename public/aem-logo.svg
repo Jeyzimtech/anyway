@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <!-- Monkey/Primate silhouette -->
+  <g fill="#1a1a1a">
+    <!-- Head -->
+    <circle cx="150" cy="80" r="50"/>
+    
+    <!-- Ears -->
+    <circle cx="105" cy="50" r="20"/>
+    <circle cx="195" cy="50" r="20"/>
+    
+    <!-- Snout -->
+    <circle cx="150" cy="95" r="18" fill="#333"/>
+    
+    <!-- Eyes -->
+    <circle cx="135" cy="75" r="7" fill="white"/>
+    <circle cx="165" cy="75" r="7" fill="white"/>
+    
+    <!-- Body -->
+    <ellipse cx="150" cy="180" rx="40" ry="60"/>
+    
+    <!-- Arms -->
+    <line x1="115" y1="160" x2="70" y2="200" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+    <line x1="185" y1="160" x2="230" y2="200" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+    
+    <!-- Legs -->
+    <line x1="125" y1="235" x2="118" y2="290" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+    <line x1="175" y1="235" x2="182" y2="290" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Text: A.E.M -->
+  <text x="150" y="270" font-size="48" font-weight="bold" text-anchor="middle" fill="#1a1a1a" font-family="Arial, sans-serif">A.E.M</text>
+</svg>

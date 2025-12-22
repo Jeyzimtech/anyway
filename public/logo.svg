@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 350" width="400" height="350">
+  <!-- Semicircle path for company name (top) -->
+  <defs>
+    <path id="semicircle-top" d="M 50 200 A 150 150 0 0 1 350 200" fill="none" stroke="none"/>
+  </defs>
+  
+  <!-- Company name along top semicircle -->
+  <text font-size="23" font-weight="600" fill="#1a1a1a" font-family="Arial, sans-serif" letter-spacing="2">
+    <textPath href="#semicircle-top" startOffset="50%" text-anchor="middle">
+      Anyway Engineering &amp; Mining
+    </textPath>
+  </text>
+  
+  <!-- A.E.M Text - Center -->
+  <text x="200" y="220" font-size="68" font-weight="bold" text-anchor="middle" fill="#1a1a1a" font-family="Arial, sans-serif">A.E.M</text>
+  
+  <!-- Supplies text below -->
+  <text x="200" y="260" font-size="22" font-weight="bold" text-anchor="middle" fill="#555" font-family="Arial, sans-serif" letter-spacing="1">
+    Supplies
+  </text>
+</svg>
